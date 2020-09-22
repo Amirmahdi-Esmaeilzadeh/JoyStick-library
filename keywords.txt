@@ -1,20 +1,24 @@
 ###########################################
-# Syntax Coloring Map For pushbutton
+# Syntax Coloring Map For JoyStick
 ###########################################
 
 ###########################################
 # Datatypes (KEYWORD1)
 ###########################################
 
-pushbutton	KEYWORD1
+JoyStick	KEYWORD1
 
 ###########################################
 # Methods and Functions (KEYWORD2)
 ###########################################
-begin   KEYWORD2
-release		KEYWORD2
-press	KEYWORD2
-data	KEYWORD1
+up  KEYWORD2
+down  KEYWORD2
+left  KEYWORD2
+right  KEYWORD2
+upNum  KEYWORD2
+downNum  KEYWORD2
+rightNum  KEYWORD2
+leftNum  KEYWORD2
 ###########################################
 # Constants (LITERAL1)
 ###########################################
